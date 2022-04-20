@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{"2HBx":function(o,t,n){"use strict";n.r(t);var r=n("q1tI"),a=n.n(r),u=function(e){var l=e.children;return a.a.createElement(a.a.Fragment,null,l)};t.default=u}}]);
