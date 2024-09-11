@@ -37,6 +37,8 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload entire repository
+          # 要让GitHub Pages的根URL默认访问 /docs/index.html，您需要修改 .github/workflows/static.yml 文件中的 Upload artifact 步骤。具体来说，您需要更改 path 参数，指向 docs 目录而不是整个仓库。
+          # 即，这里应该从【.】修改为【./docs】    // 参考资料：PoE
           path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
