@@ -1,0 +1,1 @@
+(self.webpackChunkant_design_pro=self.webpackChunkant_design_pro||[]).push([[6847],{160715:function(a,e,n){"use strict";n.r(e),n.d(e,{_:function(){return u}});var t=n(556692),l=n(991849),u=function(){return t.createElement(t.Fragment,null,t.createElement("h1",null,"md\u8F6CMindMap"),t.createElement(l.m,null))};e.default=u}}]);
