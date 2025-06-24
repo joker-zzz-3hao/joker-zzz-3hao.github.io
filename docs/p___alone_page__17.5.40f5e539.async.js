@@ -1,1 +1,0 @@
-(self.webpackChunkant_design_pro=self.webpackChunkant_design_pro||[]).push([[3719],{548761:function(u,_,n){"use strict";n.r(_),n.d(_,{_:function(){return l}});var e=n(667294),a=n(297238),t=n(346819),l=()=>e.createElement(e.Fragment,null,(0,a.TableHelper_QuickCopy_Fn____Cp)(t.Z._gen_rules()));_.default=l}}]);
